@@ -1,0 +1,12 @@
+a=input("1. sayısı giriniz..: ")
+b=input("\n2. sayısı giriniz..: ")
+c=input("\n3. sayısı giriniz..: ")
+d=input("\n4. sayısı giriniz..: ")
+e=input("\n5. sayısı giriniz..: ")
+
+print("1. sayınız {}\n2. sayınız {}\n3. sayınız {}\n4. sayınız {}\n5. sayınız {}\n".format(a,b,c,d,e))
+print("1. sayının türü ",type(a))
+print("2. sayının türü ",type(b))
+print("3. sayının türü ",type(c))
+print("4. sayının türü ",type(d))
+print("5. sayının türü ",type(e))
